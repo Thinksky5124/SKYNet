@@ -33,3 +33,9 @@
 
 # vscode 
 .vscode/*
+
+# doxygen
+doc/
+
+# cmake
+build/
